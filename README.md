@@ -22,3 +22,4 @@ The dataset used in this project contains physicochemical properties of wines, i
 The analysis provides valuable insights into the factors affecting wine quality.
 
 ![dashboard image](https://github.com/Palnisha/Power-BI-Project/blob/main/wine%20quality%20analysis%20dashboard.png)
+

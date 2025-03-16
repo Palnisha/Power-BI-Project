@@ -10,7 +10,7 @@
 
 *DURATION*  : 8 WEEKS
 
-*MENTOR*    : NEELA SANTOSH
+*MENTOR*    : NEELA SANTOSH 
 
 ## Overview of project 
 This project aims to analyze the quality of wines based on various physicochemical properties and wine type. 

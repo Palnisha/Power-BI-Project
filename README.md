@@ -1,6 +1,18 @@
 # WINE QUALITY ANALYSIS PROJECT
 
-## Overview
+*COMPANY* : CODTECH IT SOLUTIONS 
+
+*NAME* : NISHA PAL
+
+*INTERN ID* : CT6WKRM
+
+*DOMAIN* : DATA ANALYST
+
+*DURATION* : 8 WEEKS
+
+*MENTOR* : NEELA SANTOSH
+
+## Overview of project 
 This project aims to analyze the quality of wines based on various physicochemical properties and wine type. 
 
 ## Data

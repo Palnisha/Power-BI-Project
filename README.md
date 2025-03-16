@@ -12,7 +12,7 @@
 
 *MENTOR*    : NEELA SANTOSH 
 
-# Dataset link : [WineQT.csv](https://github.com/user-attachments/files/19269575/WineQT.csv)
+## Dataset link : [WineQT.csv](https://github.com/user-attachments/files/19269575/WineQT.csv)
 
 ## Overview of project 
 This project aims to analyze the quality of wines based on various physicochemical properties and wine type. 
